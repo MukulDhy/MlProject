@@ -1,11 +1,15 @@
+mlproject-main/
+mlproject-main
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
+
+# Zip file also not go to the git hub
+*.zip
 # C extensions
 *.so
-
 # Distribution / packaging
 .Python
 build/
